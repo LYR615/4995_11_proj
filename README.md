@@ -3,7 +3,7 @@
 1. Clone the repo and open the notebook:
 
    ```bash
-   git clone https://github.com/LYR615/4995_11_proj/tree/main
+   git clone https://github.com/LYR615/4995_11_proj
    ```
 
 2. Mount Google Drive and adjust the paths:
