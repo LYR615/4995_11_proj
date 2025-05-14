@@ -2,7 +2,7 @@
 
 1. Clone the repo and open the notebook:
    ```bash
-   git clone https://github.com/LYR615/NNDL_proj
+   git clone https://github.com/LYR615/4995_11_proj/tree/main
    ```
 
 2. Mount Google Drive and adjust the paths:
@@ -38,5 +38,4 @@ Model weights and test predictions will be saved to:
 ```
 /content/drive/MyDrive/Released_Data_NNDL_2025/test_predictions/
 ```
-
 
